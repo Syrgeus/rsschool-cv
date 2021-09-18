@@ -13,10 +13,10 @@
 
 ---
 
-**Phone:** (8)927-46-295-76
-**E-mail:** oreshinsv@gmail.com
-**Telegram:** [@Syrgeus](https://t.me/Syrgeus)
-**LinkedIn:** [linkedin](www.linkedin.com/in/sergei-oreshin-091432125)
+**Phone:** (8)927-46-295-76<br>
+**E-mail:** oreshinsv@gmail.com<br>
+**Telegram:** [@Syrgeus](https://t.me/Syrgeus)<br>
+**LinkedIn:** [linkedin](www.linkedin.com/in/sergei-oreshin-091432125)<br>
 
 ---
 
