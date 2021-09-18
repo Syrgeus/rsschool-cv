@@ -13,7 +13,7 @@
 
 ---
 
-**Phone:** (8)927-46-295-76<br>
+**Phone:** +7(927)46-295-76<br>
 **E-mail:** oreshinsv@gmail.com<br>
 **Telegram:** [@Syrgeus](https://t.me/Syrgeus)<br>
 **LinkedIn:** [linkedin](www.linkedin.com/in/sergei-oreshin-091432125)<br>
@@ -21,6 +21,8 @@
 ---
 
 ## About Me
+
+I am a hardworking, loyal and reliable employee. I am seeking an opportunity to allow me to develop my programming skills further and further advance my career in IT.
 
 ---
 ## Skils
