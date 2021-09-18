@@ -36,10 +36,11 @@ I am a hardworking, loyal and reliable employee. I am seeking an opportunity to 
 
 ## Code Example
 
-```const removeChar = (str) => { 
-  strTemp = str.substring(0, str.length - 1);
-  strRes = strTemp.substring(1);
-  return strRes;
+```
+const removeChar = (str) => { 
+strTemp = str.substring(0, str.length - 1);
+strRes = strTemp.substring(1);
+return strRes;
 };
 ```
 
