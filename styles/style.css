@@ -1,3 +1,55 @@
+.nav {
+	display: flex;
+	width: 100%;
+	background:gold;
+	align-items: center;
+    align-content: center;
+	height: 75px;
+    font-size: 25px;
+	font-family: sans-serif;
+    text-transform: uppercase;
+}
+.nav-list {
+	display: flex;	
+	justify-content: space-around;
+	width: 100%;
+}
+
+ul {
+	list-style: none;
+}
+
+aside {	
+	width: 350px;
+	
+}
+
+.Avatar {
+	display: flex;
+	flex-direction: column;
+	justify-content: center;
+	align-items: center;
+	
+}
+
+section {
+	display: block;
+}
+
+h2 {
+	background:gold;
+}
+aside img {
+	border-radius: 125px;
+	width: 250px;
+	height: 250px;
+	box-shadow: none;
+	margin: 20px auto;
+}
+main {
+	display: flex;
+}
+
 .footer-wrapper {
 	background:slategrey;
 	display: flex;
