@@ -1,7 +1,12 @@
+.container {
+	width: 1000px;
+	margin: 0 auto;
+	min-height: 100%;
+}
 .nav {
 	display: flex;
 	width: 100%;
-	background:gold;
+	background:slategrey;
 	align-items: center;
     align-content: center;
 	height: 75px;
@@ -15,13 +20,19 @@
 	width: 100%;
 }
 
-ul {
+nav ul {
 	list-style: none;
 }
 
 aside {	
-	width: 350px;
+	width: 400px;
+	background: gold;
 	
+}
+
+aside h2 {
+	background:gold;
+	text-align: center;
 }
 
 .Avatar {
@@ -31,23 +42,46 @@ aside {
 	align-items: center;
 	
 }
+p {
+	margin: 10 20 10 20;
+	font-family: sans-serif;
+}
 
 section {
-	display: block;
+	display: block;	
 }
+
+.aboutMe {
+	
+	margin-top: 0;
+}
+
 
 h2 {
 	background:gold;
+	text-align: left;
+	padding-left: 20px;
+	margin-top: 0;
 }
+
 aside img {
-	border-radius: 125px;
-	width: 250px;
-	height: 250px;
+	border-radius: 100px;
+	width: 200px;
+	height: 200px;
 	box-shadow: none;
 	margin: 20px auto;
 }
 main {
 	display: flex;
+}
+
+pre {
+	font-family: monospace;
+}
+
+.code-item {
+	margin: 0 0 0 20;
+	font-size: 1em;	
 }
 
 .footer-wrapper {
@@ -67,10 +101,6 @@ main {
 
 .copyright {
 	display: block;
-}
-
-.github-link {
-	
 }
 
 footer img {
